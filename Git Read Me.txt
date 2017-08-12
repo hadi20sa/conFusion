@@ -1,0 +1,26 @@
+Git Command:
+
+git init
+
+git status
+
+git add .
+
+git commit -m "first commit"
+
+git log --oneline
+
+git checkout <second commit's number> index.html
+
+git reset HEAD index.html
+
+git checkout -- index.html
+
+
+-----Online
+
+git remote add origin <repository URL>
+
+git push -u origin master
+
+git clone <repository URL>
